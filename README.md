@@ -1,4 +1,2 @@
-# programming
-
-1) python program
-2) automated test via RobotFW
+1. program in Python that counts backwards from 100 to 1 and prints: "Agile" if the number is divisible by 5, "Software" if the number is divisible by 3, "Testing" if the number is divisible by both, or prints just the number if none of those cases are true.
+2. automated test in RobotFramework: in e-shop, navigate to some category and add two most expensive items to the shopping cart from this category
